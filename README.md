@@ -1,5 +1,6 @@
 Author: Sanjana Suresh and collaborators 
-Stockify: A Stock Market Simulator Game
+
+# Stockify: A Stock Market Simulator Game
 Stockify is an interactive stock market simulation game built using Python, NumPy, and Pandas. The game allows users to explore stock market trading through a simplified, engaging interface while learning about concepts such as ticker symbols, stock performance, and profit/loss calculations.
 
 Features
